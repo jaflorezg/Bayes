@@ -1,2 +1,2 @@
 # Bayes
-Application de Bayes
+Applicación de Bayes
